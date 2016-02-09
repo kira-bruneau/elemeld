@@ -1,0 +1,9 @@
+[package]
+name = "elemeld"
+version = "0.1.0"
+authors = ["Kira Bruneau <kira.bruneau@gmail.com>"]
+
+[dependencies]
+mio = "*"
+x11-dl = "*"
+dylib = "*"
