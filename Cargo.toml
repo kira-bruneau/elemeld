@@ -5,6 +5,7 @@ authors = ["Kira Bruneau <kira.bruneau@gmail.com>"]
 
 [dependencies]
 mio = "*"
+ws = "*"
 serde = "*"
 rustc-serialize = "*"
 serde_json = "*"
